@@ -9,6 +9,6 @@ def state_log(star_date)
   "Captain's Log, star date #{star_date}."
 end
 
-def engage(/Captain's Log, star_date/)
-  prints /Captain's Log, star date/ 
+def engage()
+  
 end
