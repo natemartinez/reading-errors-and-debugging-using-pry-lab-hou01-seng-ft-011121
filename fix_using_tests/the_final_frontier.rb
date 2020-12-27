@@ -11,4 +11,5 @@ end
 
 def engage(state_log)
   prints /Captain's Log, star date/ 
+  state_log
 end
